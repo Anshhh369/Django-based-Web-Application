@@ -30,7 +30,7 @@ Domains:
 * Deadlines for each Project is set by the Admin and project status and work is checked by the Project Managers and the Deadlines are given to the Employees by the Project Manager and Admin gives the Deadline for the project to the Project Managers. These deadlines can  be easily checked by any of the users on the Dashboard of Project Management System. When the deadlines are approaching various notifications are sent to the following user , if the deadline of an employee is approaching for the particular task then the Employee is sent a notification.
 
 
-# Proposed Algorithm/Methodology
+# Proposed Algorithm/Methodology 
 
 * The responsibilities of an administrator can be reduced and the resources and the energy of the organization can be focused more on the development with the use of our project.
 
